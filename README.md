@@ -6,6 +6,11 @@ This repository contains the source code and related materials for a beginner tu
 
 The tutorial provides step-by-step instructions for building a to-do list app using SwiftUI. The app allows users to create, view, update, and delete tasks in a list format. 
 
+<img src="https://github.com/suhailii/iOS-Todo-List-MVVM/assets/74708728/60152c1c-2857-404a-8709-7e0af7f98837" alt="Home" width="250">
+<img src="https://github.com/suhailii/iOS-Todo-List-MVVM/assets/74708728/acedb657-db17-4bcd-89e7-2beb5f93caa3" alt="Home" width="250">
+<img src="https://github.com/suhailii/iOS-Todo-List-MVVM/assets/74708728/9efa9d32-cf72-4425-a331-2261eae81940" alt="Home" width="250">
+
+
 ## Prerequisites
 
 To follow along with the tutorial and run the app locally, ensure that you have the following:
